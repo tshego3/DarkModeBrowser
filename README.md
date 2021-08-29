@@ -1,4 +1,4 @@
-# DarkModeBrowser
+# Dark Mode Browser - BETA
 A Chromium extension to set any website into dark theme.
 
 Links used on project: 
