@@ -2,8 +2,8 @@
 A Chromium extension to set any website into dark theme.
 
 Links used on project: 
-https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension
-https://developer.chrome.com/docs/extensions/reference/tabs/
+https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension,
+https://developer.chrome.com/docs/extensions/reference/tabs/,
 https://darkreader.org/ OR https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc
 
 How to Enable Dark Theme in SQL Server Management Studio:
